@@ -10,3 +10,6 @@ List of materials on the detection of objects from open sources (notebooks, arti
 [Сегментация изображений с помощью нейросетей](https://www.youtube.com/watch?v=OWK8VlgJM4I&list=PL0Ks75aof3ThkitsZbUOEQg7Ybl5kB_s3&index=22)(Torch)(Rus)(Segmentation)
 ##### seminar:
 [Семинар: Нейросети в компьютерном зрении: практика (08.12.2019)](https://www.youtube.com/watch?v=XSPYe4-y4HE&t=2468s)(Torch)(Rus)
+
+### Tutorial/article/paper
+[TORCHVISION OBJECT DETECTION FINETUNING TUTORIAL](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)(Torch)(Detection and segmentation)(Eng)
