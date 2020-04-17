@@ -2,7 +2,8 @@
 List of materials on the detection of objects from open sources (notebooks, articles, lectures)
 
 ### Notebooks:
-[torcnvision_finetuning_instance_segmentation.ipynb](../master/notebooks/torcnvision_finetuning_instance_segmentation.ipynb) (Torch)(Detection and segmentation)
+[torcnvision_finetuning_instance_segmentation.ipynb](../master/notebooks/torcnvision_finetuning_instance_segmentation.ipynb) (Torch)(Detection and segmentation)  
+[cv_practice_notebook.ipynb](../master/notebooks/cv_practice_notebook.ipynb)(Torch)(only run pretrain model)
 
 ### Video
 ##### lectures:
@@ -13,3 +14,7 @@ List of materials on the detection of objects from open sources (notebooks, arti
 
 ### Tutorial/article/paper
 [TORCHVISION OBJECT DETECTION FINETUNING TUTORIAL](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)(Torch)(Detection and segmentation)(Eng)
+
+##### unsorted:
+[ctalyst_segmentation](https://github.com/catalyst-team/catalyst/blob/master/examples/notebooks/segmentation-tutorial.ipynb)(notebook)  
+[detectron2 tutorial](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)(notebook)  
