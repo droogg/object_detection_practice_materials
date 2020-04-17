@@ -2,7 +2,7 @@
 List of materials on the detection of objects from open sources (notebooks, articles, lectures)
 
 ### Notebooks:
-[torcnvision_finetuning_instance_segmentation.ipynb](../blob/master/notebooks/torcnvision_finetuning_instance_segmentation.ipynb) (Torch)(Detection and segmentation)
+[torcnvision_finetuning_instance_segmentation.ipynb](../master/notebooks/torcnvision_finetuning_instance_segmentation.ipynb) (Torch)(Detection and segmentation)
 
 ### Video
 ##### lectures:
